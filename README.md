@@ -1,1 +1,2 @@
-# amazom
+# amazomt
+this is my first repository.
